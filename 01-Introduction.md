@@ -1,11 +1,3 @@
-![](https://camo.githubusercontent.com/72c6b2f69e29d3d9844140805186b9ca7728c158/68747470733a2f2f692e696d6775722e636f6d2f656b764a6436302e706e67)
-
-
-
-# Viewly Distribution Game
-
-
-
 ## Introduction
 
 Most common ways to distribute crypto tokens today are ICO's and Airdrops. 
